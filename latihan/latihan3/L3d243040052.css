@@ -1,0 +1,42 @@
+body {
+  background-image: url(background.png);
+  font-family: Georgia;
+  background-repeat: repeat-x;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+}
+h3 a {
+  color: red;
+}
+a {
+  color: green;
+}
+a:hover {
+  color: blue;
+}
+h4 {
+  font-style: italic;
+  text-align: right;
+}
+p {
+  color: sandybrown;
+  text-align: center;
+}
+.p2 {
+  color: black;
+  text-align: right;
+}
+.p3 {
+  text-align: center;
+}
+.p2 {
+  text-align: center;
+}
+.a2:hover {
+  color: aliceblue;
+  background-color: blue;
+}
